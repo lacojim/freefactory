@@ -31,6 +31,7 @@ I would love to get some help with this from people much more knowlegable than m
 I am presently running this on a dedicated eight core AMD 64bit ASUS system, with 8gb RAM which was custom built excluively for this project....rack mounted and headless. It is a fully dedicated system. It literally blows away our Telestream transcoder, which is also busy, but this machine is pretty killer! Oh, it also records news teases with a Blackmagic Duo card while transcoding video, without even a glitch! :)
 
 Many Thanks to Karl Swisher for all his work on converting this all from BASH to TCL/TK.
+Requirments: tk/tcl, inotifywait.
 
 
 
