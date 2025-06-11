@@ -1,6 +1,9 @@
 FreeFactory
 ===========
 
+==UPDATE 2025-06-11==
+FreeFactory is in the process of being re-written in Python3 using QT for the frontend (Factory builder) and now uses systemd for the notify service. This removes the line from rc.local (which is already deprecated on many Linux OSes). Also, could much more easily support Windows in the future.
+
 ==UPDATE==
 Everything is now here that is needed to run this. However, the installer script is not yet up to date with all the recent changes, so it is not yet available. Just copy the contents of all this to /opt/FreeFactory, and run the GUI from the /opt/FreeFactory/bin directory. ./FreeFactory.tcl. Also, the DOCs are really up to date, so look at them.
 ==END UPDATE==
