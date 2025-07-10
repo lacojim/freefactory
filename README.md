@@ -1,3 +1,5 @@
+## This version is outdated and should not be used. Please use this one instead: https://github.com/lacojim/FreeFactoryQT
+
 FreeFactory
 ===========
 ==UPDATE 2025-06-15==
